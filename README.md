@@ -5,6 +5,8 @@ The goal of this project is to make a web application that generates random sent
 
 You can see a basic version here: https://hola-amigo.glitch.me/
 
+And a more developed one here: https://spanbot2.glitch.me/
+
 I want to develop this to make it into a useful tool for a working Spanish teacher.
 
 Why?
