@@ -3,9 +3,7 @@ SpanBot is an app that helps Spanish teachers to design tasks for learners
 
 The goal of this project is to make a web application that generates random sentences in Spanish using a Context Free Grammar.
 
-You can see a basic version here: https://hola-amigo.glitch.me/
-
-And a more developed one here: https://spanbot2.glitch.me/
+You can see an example here and edit the code https://editor.p5js.org/pjfpotter/sketches/lJDFB8cdE
 
 I want to develop this to make it into a useful tool for a working Spanish teacher.
 
